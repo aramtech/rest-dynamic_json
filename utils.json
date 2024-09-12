@@ -1,0 +1,17 @@
+{
+    "name": "rest-dynamic_json",
+    "deps": {
+        "rest-common": {
+            "owner": "aramtech",
+            "repo": "rest-common",
+            "update_policy": "major",
+            "version": "0.3.2"
+        }
+    },
+    "public_repo": false,
+    "private": false,
+    "owner": "aramtech",
+    "hash": "C3B4xBiaAdYLqf1og0Go2fMwuloOQhsL_ZFXwcREG1E",
+    "version": "0.2.2",
+    "description": ""
+}
